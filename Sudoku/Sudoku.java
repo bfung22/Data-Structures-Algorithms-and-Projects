@@ -1,4 +1,4 @@
-/**Sudoku Assignment
+/** Sudoku: Utilizes backtracking algorithm to generate complete Sudoku board.
  * author: @BennyFung
  */
 import java.util.Random;
